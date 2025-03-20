@@ -1,5 +1,3 @@
-//SeyedAlirezaKhosravi 40231015
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
